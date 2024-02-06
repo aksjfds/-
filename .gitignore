@@ -1,0 +1,6 @@
+分类/data/mnist_data.csv
+分类/data/mnist_data.feather
+分类/data/mnist_data.pkl
+分类/data/mnist_target.csv
+分类/data/mnist_target.feather
+分类/data/mnist_target.pkl
