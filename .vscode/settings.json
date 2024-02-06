@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.checkOnSave": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    
+}
